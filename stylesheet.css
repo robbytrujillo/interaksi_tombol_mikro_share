@@ -49,7 +49,7 @@ a {
 
 .active .btn,
 .btn:hover {
-    outline: 5px solid #430c9c;
+    outline: 5px solid #130130;
     outline-offset: -4px;
 }
 
@@ -84,11 +84,11 @@ a {
             #285AEB 90%);
 }
 
-.tw:hover {
-    background-color: #1DA1F2;
+.gh:hover {
+    background-color: #172228;
 }
 
-.sc:hover {
-    background-color: #FFFC00;
+.fb:hover {
+    background-color: #0f5ac9;
     color: inherit;
 }
